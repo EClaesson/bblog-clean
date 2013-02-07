@@ -13,3 +13,4 @@ What it does:
  * Hides the avatar left of the reply box in forum threads.
  * Hides the Origin logo in the Com Center header.
  * Hides signatures in forum.
+ * Hides the merch advertisement.
