@@ -1,0 +1,41 @@
+.main-loggedin-header-puffs,
+.base-header-section-nav,
+#footer-twitter, #footer-highlighted, #footer-legal,
+.battlelog-bf3-homepage, .base-header-profile-avatar-link, .base-header-soldier-pic,
+.platoon-c-frame, .platoon-worldplatoons,
+.forum-start-forum-latest .base-avatar-container,
+.forum-threadview-post-signature,
+.common-replyform-avatar {
+	visibility: hidden !important;
+	display:    none   !important;
+}
+
+.base-header-logo {
+	margin-top: 30px !important;
+}
+
+.footer-box {
+	width: 420px !important;
+}
+
+#friendlist-header {
+	background: #DDCBA6 !important;
+}
+
+.main-loggedin-rankbar-prev {
+	position:  relative !important;
+	left:     -15px    !important;
+	top:       25px    !important;
+}
+
+#footer {
+	min-height: 0px !important;
+}
+
+.forum-start-forum-latest {
+	width: 204px !important;
+}
+
+.common-replyform-form {
+	padding-left: 0px !important;
+}
