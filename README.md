@@ -1,3 +1,5 @@
+**This has not been updated for the new Battlelog.**
+
 Open the BBLog Theme Switcher and paste https://dl.dropbox.com/u/52934003/bblog-clean/bblog-clean.css to the custom theme box, and you're done.
 (BF3 only)
 
